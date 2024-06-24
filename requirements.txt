@@ -1,0 +1,15 @@
+langchain
+unstructured[all-docs]
+pydantic
+lxml
+langchainhub
+fastapi
+kaleido
+uvicorn
+poppler-utils
+langchain-community
+langchain-core
+openai
+chromadb
+tiktoken
+langchain-openai
